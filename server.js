@@ -21,7 +21,7 @@ var request = require('request');
 
 var app = express();
 var server = http.createServer(app);
-var mfpServer = "http://10.53.102.203:9080";
+var mfpServer = "http://localhost:9080";
 var port = 9081;
 
 server.listen(port);
