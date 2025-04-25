@@ -1,0 +1,13 @@
+{
+  "name": "resourcerequestweb",
+  "version": "1.0.0",
+  "description": "ResourceRequestWeb is a sample application demonstrating the use to the WLResourceRequest API in JavaScript.",
+  "dependencies": {
+    "express": "4.21.2",
+    "ibm-mfp-web-sdk": "file:../../PMF-9.0-WebSDK/PMF-9.0-WebSDK/pmf-web.tgz",
+    "request": "latest",
+    "requirejs": "latest"
+  },
+  "author": "Persistent Mobile Foundation",
+  "license": "SEE LICENSE IN README.MD"
+}
